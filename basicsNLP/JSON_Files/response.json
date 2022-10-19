@@ -1,0 +1,2018 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2022-10-03T11:39:51-04:00",
+  "num_results": 33,
+  "results": [
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "The Cop Show Enters the \u2018Defund\u2019 Era",
+      "abstract": "Widespread concerns over policing after the killing of George Floyd did not end the police drama as we know it. But shows are evolving to reflect the new climate.",
+      "url": "https://www.nytimes.com/2022/10/03/arts/television/cop-shows-after-george-floyd.html",
+      "uri": "nyt://article/09cb6014-fc8e-53fa-bcef-ab961e8b5dd4",
+      "byline": "By Marc Tracy",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T11:30:15-04:00",
+      "created_date": "2022-10-03T11:30:15-04:00",
+      "published_date": "2022-10-03T11:30:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "East New York (TV Program)",
+        "Television",
+        "Police",
+        "Police Brutality, Misconduct and Shootings",
+        "Police Reform"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Floyd, George (d 2020)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/26/arts/26copshows-5/merlin_213612495_d6ddeec5-4054-418f-bb53-ccbbde3990e7-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On location with \u201cEast New York.\u201d",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/26/arts/26copshows-5/26copshows-5-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On location with \u201cEast New York.\u201d",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/26/arts/26copshows-5/26copshows-5-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On location with \u201cEast New York.\u201d",
+          "copyright": "George Etheredge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RxsK0E"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Unraveling One of Rock\u2019s Deepest Mysteries: Les Rallizes D\u00e9nud\u00e9s",
+      "abstract": "The Japanese band that emerged in the late 1960s was known for its rumbling rhythms and ear-shredding feedback \u2014 but almost nothing was known about its leader, Takashi Mizutani.",
+      "url": "https://www.nytimes.com/2022/10/03/arts/music/les-rallizes-denudes.html",
+      "uri": "nyt://article/36f5173d-4b74-58e2-98d7-e633e524964e",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T09:46:51-04:00",
+      "created_date": "2022-10-03T05:00:20-04:00",
+      "published_date": "2022-10-03T05:00:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pop and Rock Music",
+        "internal-sub-only",
+        "Content Type: Personal Profile",
+        "Nineteen Hundred Seventies",
+        "The OZ Tapes (Album)",
+        "OZ Days Live: 72-73 Kichijoji (Album)"
+      ],
+      "org_facet": [
+        "Les Rallizes Denudes"
+      ],
+      "per_facet": [
+        "Makoto Kubota",
+        "Takashi Mizutani"
+      ],
+      "geo_facet": [
+        "Japan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/09/arts/09denudes1/09denudes1-superJumbo-v3.jpg",
+          "format": "Super Jumbo",
+          "height": 1161,
+          "width": 1778,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Mikio Nagata, Takashi Mizutani, Shunichiro Shoda and Takeshi Nakamura of Les Rallizes D\u00e9nud\u00e9s. After decades of intrigue, the band is finally getting the archival treatment.",
+          "copyright": "Akira Uji, via The Last One Musique"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/09/arts/09denudes1/09denudes1-threeByTwoSmallAt2X-v3.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Mikio Nagata, Takashi Mizutani, Shunichiro Shoda and Takeshi Nakamura of Les Rallizes D\u00e9nud\u00e9s. After decades of intrigue, the band is finally getting the archival treatment.",
+          "copyright": "Akira Uji, via The Last One Musique"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/09/arts/09denudes1/09denudes1-thumbLarge-v3.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Mikio Nagata, Takashi Mizutani, Shunichiro Shoda and Takeshi Nakamura of Les Rallizes D\u00e9nud\u00e9s. After decades of intrigue, the band is finally getting the archival treatment.",
+          "copyright": "Akira Uji, via The Last One Musique"
+        }
+      ],
+      "short_url": "https://nyti.ms/3E9jNrB"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Sacheen Littlefeather, Activist Who Rejected Brando\u2019s Oscar, Dies at 75",
+      "abstract": "The actress was booed at the Academy Awards in 1973 after she refused the best actor award on Marlon Brando\u2019s behalf in protest of Hollywood\u2019s depictions of Native Americans.",
+      "url": "https://www.nytimes.com/2022/10/03/movies/sacheen-littlefeather-dead.html",
+      "uri": "nyt://article/706e8a1f-37c3-5905-9f48-93a65aae9cf1",
+      "byline": "By Eduardo Medina",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T11:05:51-04:00",
+      "created_date": "2022-10-03T04:26:59-04:00",
+      "published_date": "2022-10-03T04:26:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Academy Awards (Oscars)",
+        "Deaths (Obituaries)",
+        "Movies",
+        "Native Americans"
+      ],
+      "org_facet": [
+        "Academy of Motion Picture Arts and Sciences"
+      ],
+      "per_facet": [
+        "Littlefeather, Sacheen",
+        "Brando, Marlon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/multimedia/02xp-Sacheen-Littlefeather-obit-2-1-5f04/02xp-Sacheen-Littlefeather-obit-2-1-5f04-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1354,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Littlefeather and Mr. Brando had become friends through her neighbor, the director Francis Ford Coppola.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/multimedia/02xp-Sacheen-Littlefeather-obit-2-1-5f04/02xp-Sacheen-Littlefeather-obit-2-1-5f04-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Littlefeather and Mr. Brando had become friends through her neighbor, the director Francis Ford Coppola.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/multimedia/02xp-Sacheen-Littlefeather-obit-2-1-5f04/02xp-Sacheen-Littlefeather-obit-2-1-5f04-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Littlefeather and Mr. Brando had become friends through her neighbor, the director Francis Ford Coppola.",
+          "copyright": "Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3UVhhei"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Review: In Stoppard\u2019s \u2018Leopoldstadt,\u2019 a Memorial to a Lost World",
+      "abstract": "The Viennese Jewish family at the heart of this new Broadway production thinks it is too assimilated to be in danger when the Nazis arrive. They are wrong.",
+      "url": "https://www.nytimes.com/2022/10/02/theater/leopoldstadt-review.html",
+      "uri": "nyt://article/1060b0c4-c86b-549c-a5cb-3a51c32794f2",
+      "byline": "By Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T06:30:11-04:00",
+      "created_date": "2022-10-02T22:00:05-04:00",
+      "published_date": "2022-10-02T22:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Theater",
+        "Leopoldstadt (Play)"
+      ],
+      "org_facet": [
+        "Longacre Theater (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Stoppard, Tom",
+        "Marber, Patrick",
+        "Krumholtz, David"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/02LEOPOLDSTADT-1/merlin_213196461_49af514d-2591-4ab1-a962-d05194d8142f-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Passover Seder during Tom Stoppard\u2019s harrowing new play, \u201cLeopoldstadt,\u201d at the Longacre Theater in Manhattan. ",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/02LEOPOLDSTADT-1/merlin_213196461_49af514d-2591-4ab1-a962-d05194d8142f-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Passover Seder during Tom Stoppard\u2019s harrowing new play, \u201cLeopoldstadt,\u201d at the Longacre Theater in Manhattan. ",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/02LEOPOLDSTADT-1/02LEOPOLDSTADT-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Passover Seder during Tom Stoppard\u2019s harrowing new play, \u201cLeopoldstadt,\u201d at the Longacre Theater in Manhattan. ",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3LXPrdu"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Bros\u2019 Fails at the Box Office, as \u2018Smile\u2019 Arrives at No. 1",
+      "abstract": "Promoted as the first gay romantic comedy from a major studio, \u201cBros\u201d sold $4.8 million in tickets, about 40 percent less than expected.",
+      "url": "https://www.nytimes.com/2022/10/02/movies/bros-smile-box-office.html",
+      "uri": "nyt://article/68532d3d-b3c0-5c4a-9455-5d3e3578250c",
+      "byline": "By Brooks Barnes",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T10:38:59-04:00",
+      "created_date": "2022-10-02T15:02:20-04:00",
+      "published_date": "2022-10-02T15:02:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Box Office Sales",
+        "Bros (Movie)",
+        "Movies",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Eichner, Billy",
+        "Macfarlane, Luke (1980- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/bros-anatomy1/bros-anatomy1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luke Macfarlane and Billy Eichner in \u201cBros,\u201d which was embraced by critics but arrived in fourth place at the box office. ",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/bros-anatomy1/bros-anatomy1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luke Macfarlane and Billy Eichner in \u201cBros,\u201d which was embraced by critics but arrived in fourth place at the box office. ",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/bros-anatomy1/bros-anatomy1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luke Macfarlane and Billy Eichner in \u201cBros,\u201d which was embraced by critics but arrived in fourth place at the box office. ",
+          "copyright": "Universal Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SKqrZg"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Billy Eichner Wrote Himself Into the Romance He Wanted With \u2018Bros\u2019",
+      "abstract": "In the film, he channels his relationship angst into something hopeful: \u201cI was like, \u2018Why is the fictional version of me happier than I am?\u2019\u201d",
+      "url": "https://www.nytimes.com/2022/09/30/movies/billy-eichner-bros.html",
+      "uri": "nyt://article/c8d7ab4b-813a-5949-8f97-2f8d511f322a",
+      "byline": "By Kyle Buchanan",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T09:42:36-04:00",
+      "created_date": "2022-09-30T08:00:07-04:00",
+      "published_date": "2022-09-30T08:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Homosexuality and Bisexuality",
+        "Actors and Actresses",
+        "Bros (Movie)",
+        "Dating and Relationships"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Eichner, Billy",
+        "Stoller, Nick"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30billy-eichner1/merlin_213971922_e0c5872c-2d71-416e-9263-091b166185bc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUntil very recently, if Hollywood was willing to put a gay character in anything, it was often to be some version of a live-action cartoon,\u201d Billy Eichner said.",
+          "copyright": "Ryan Pfluger for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30billy-eichner1/30billy-eichner1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUntil very recently, if Hollywood was willing to put a gay character in anything, it was often to be some version of a live-action cartoon,\u201d Billy Eichner said.",
+          "copyright": "Ryan Pfluger for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30billy-eichner1/30billy-eichner1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUntil very recently, if Hollywood was willing to put a gay character in anything, it was often to be some version of a live-action cartoon,\u201d Billy Eichner said.",
+          "copyright": "Ryan Pfluger for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SoGLyZ"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Eight Ways of Looking at a Singular Composer",
+      "abstract": "Lukas Foss would have turned 100 this year. Here is a selection of key works from a long and varied (and now largely overlooked) career.",
+      "url": "https://www.nytimes.com/2022/10/02/arts/music/lukas-foss-carnegie-hall.html",
+      "uri": "nyt://article/227d19ba-f4b5-5db4-9d1f-9aba11f9c701",
+      "byline": "By Zachary Woolfe",
+      "item_type": "Article",
+      "updated_date": "2022-10-02T23:02:52-04:00",
+      "created_date": "2022-10-02T12:40:46-04:00",
+      "published_date": "2022-10-02T12:40:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Music"
+      ],
+      "org_facet": [
+        "Buffalo Philharmonic Orchestra",
+        "Carnegie Hall"
+      ],
+      "per_facet": [
+        "Foss, Lukas",
+        "Falletta, JoAnn"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02foss-1/02foss-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1628,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The composer Lukas Foss, photographed here in 1942, will be celebrated with a concert at Carnegie Hall.",
+          "copyright": "Fred Stein/Picture Alliance &mdash; DPA, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02foss-1/02foss-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The composer Lukas Foss, photographed here in 1942, will be celebrated with a concert at Carnegie Hall.",
+          "copyright": "Fred Stein/Picture Alliance &mdash; DPA, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02foss-1/02foss-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The composer Lukas Foss, photographed here in 1942, will be celebrated with a concert at Carnegie Hall.",
+          "copyright": "Fred Stein/Picture Alliance &mdash; DPA, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CqyHZ2"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018House of the Dragon\u2019 Season 1, Episode 7 Recap: An Ugly Game",
+      "abstract": "This week\u2019s episode wove an enormous amount of objectively bonkers goings-on into a mostly credible hour of drama, with one big exception.",
+      "url": "https://www.nytimes.com/2022/10/02/arts/television/house-of-the-dragon-season-1-episode-7-recap.html",
+      "uri": "nyt://article/9173237c-4b1b-54c6-90b1-b7cedc684ff6",
+      "byline": "By Jeremy Egner",
+      "item_type": "Article",
+      "updated_date": "2022-10-02T22:05:03-04:00",
+      "created_date": "2022-10-02T22:05:03-04:00",
+      "published_date": "2022-10-02T22:05:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "House of the Dragon (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02dragon-1/02dragon-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1280,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "What\u2019s worse than a Westeros wedding? A Westeros funeral. From left: Olivia Cooke, Paddy Considine, Evie Allen, Steve Toussaint, Eve Best and Shani Smethurst in \u201cHouse of the Dragon.\u201d",
+          "copyright": "Ollie Upton/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02dragon-1/02dragon-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "What\u2019s worse than a Westeros wedding? A Westeros funeral. From left: Olivia Cooke, Paddy Considine, Evie Allen, Steve Toussaint, Eve Best and Shani Smethurst in \u201cHouse of the Dragon.\u201d",
+          "copyright": "Ollie Upton/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02dragon-1/02dragon-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "What\u2019s worse than a Westeros wedding? A Westeros funeral. From left: Olivia Cooke, Paddy Considine, Evie Allen, Steve Toussaint, Eve Best and Shani Smethurst in \u201cHouse of the Dragon.\u201d",
+          "copyright": "Ollie Upton/HBO"
+        }
+      ],
+      "short_url": "https://nyti.ms/3C6862l"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "What\u2019s on TV This Week: \u2018Grey\u2019s Anatomy\u2019 and \u2018The Real Love Boat\u2019",
+      "abstract": "The long-running medical drama on ABC begins its 19th season, and CBS airs a reality series inspired by the 1976 TV show.",
+      "url": "https://www.nytimes.com/2022/10/03/arts/television/whats-on-tv-this-week-greys-anatomy-the-real-love-boat.html",
+      "uri": "nyt://article/90892c24-4467-5798-807d-9288c4c1fca7",
+      "byline": "By Shivani Gonzalez",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T01:00:06-04:00",
+      "created_date": "2022-10-03T01:00:06-04:00",
+      "published_date": "2022-10-03T01:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Movies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/03tvcol-greys/03tvcol-greys-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Carmack and Camilla Luddington in \u201cGrey\u2019s Anatomy.\u201d",
+          "copyright": "ABC/Liliane Lathan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/03tvcol-greys/03tvcol-greys-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Carmack and Camilla Luddington in \u201cGrey\u2019s Anatomy.\u201d",
+          "copyright": "ABC/Liliane Lathan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/03tvcol-greys/03tvcol-greys-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Carmack and Camilla Luddington in \u201cGrey\u2019s Anatomy.\u201d",
+          "copyright": "ABC/Liliane Lathan"
+        }
+      ],
+      "short_url": "https://nyti.ms/3M4nOzl"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "A Brief History of the Police Procedural in 6 Shows",
+      "abstract": "The genre dates back to the dawn of television, but it has evolved over the years.",
+      "url": "https://www.nytimes.com/2022/10/03/arts/television/cops-tv-show-history.html",
+      "uri": "nyt://article/7be9c073-f318-5c2a-b5d0-4fc47fb0ed98",
+      "byline": "By Marc Tracy",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T11:30:24-04:00",
+      "created_date": "2022-10-03T11:30:24-04:00",
+      "published_date": "2022-10-03T11:30:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dragnet (TV Program)",
+        "Hill Street Blues (TV Program)",
+        "NYPD Blue (TV Program)",
+        "CSI (TV Program)",
+        "The Wire (TV Program)",
+        "East New York (TV Program)",
+        "Homicide: Life on the Street (TV Program)",
+        "Law & Order (TV Program)",
+        "Television"
+      ],
+      "org_facet": [
+        "Home Box Office"
+      ],
+      "per_facet": [
+        "Simon, David (1960- )",
+        "Pelecanos, George P"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/00copshowstimeline/00copshowstimeline-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1517,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Jack Webb in \u201cDragnet\u201d and Amanda Warren in \u201cEast New York.\u201d",
+          "copyright": "From left: NBC, via Getty Images; Scott McDermott/CBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/00copshowstimeline/00copshowstimeline-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Jack Webb in \u201cDragnet\u201d and Amanda Warren in \u201cEast New York.\u201d",
+          "copyright": "From left: NBC, via Getty Images; Scott McDermott/CBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/00copshowstimeline/00copshowstimeline-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Jack Webb in \u201cDragnet\u201d and Amanda Warren in \u201cEast New York.\u201d",
+          "copyright": "From left: NBC, via Getty Images; Scott McDermott/CBS"
+        }
+      ],
+      "short_url": "https://nyti.ms/3C2B56Y"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Lloyd Webber\u2019s \u2018Bad Cinderella\u2019 to Open on Broadway in March",
+      "abstract": "The musical, which was known simply as \u201cCinderella\u201d during a previous run in London, is a new adaptation of the classic fairy tale.",
+      "url": "https://www.nytimes.com/2022/10/03/theater/bad-cinderella-broadway.html",
+      "uri": "nyt://article/287db6fb-9707-5bda-bac8-cb7317b18205",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T10:00:04-04:00",
+      "created_date": "2022-10-03T10:00:04-04:00",
+      "published_date": "2022-10-03T10:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Theater (Broadway)",
+        "bad cinderella (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Connor, Laurence",
+        "Linedy Genao",
+        "Lloyd Webber, Andrew"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/03bad-cinderella/03bad-cinderella-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linedy Genao is set to have her first lead Broadway role in Andrew Lloyd Webber\u2019s \u201cBad Cinderella.\u201d",
+          "copyright": "Matthew Murphy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/03bad-cinderella/03bad-cinderella-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linedy Genao is set to have her first lead Broadway role in Andrew Lloyd Webber\u2019s \u201cBad Cinderella.\u201d",
+          "copyright": "Matthew Murphy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/arts/03bad-cinderella/03bad-cinderella-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linedy Genao is set to have her first lead Broadway role in Andrew Lloyd Webber\u2019s \u201cBad Cinderella.\u201d",
+          "copyright": "Matthew Murphy"
+        }
+      ],
+      "short_url": "https://nyti.ms/3STUopJ"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Unearthing Everyday Life at an Ancient Site in Greece",
+      "abstract": "Excavations in the Peloponnesian village of Iklaina are yielding rich insights into the lives of the Mycenaean civilization\u2019s general population.",
+      "url": "https://www.nytimes.com/2022/10/03/travel/iklaina-archaeology-greece.html",
+      "uri": "nyt://article/026d2e38-d727-5e18-9d03-1173d4c0f5fa",
+      "byline": "By Matt Stirn",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T05:00:27-04:00",
+      "created_date": "2022-10-03T05:00:27-04:00",
+      "published_date": "2022-10-03T05:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "The World Through a Lens",
+      "des_facet": [
+        "Greek Civilization",
+        "Archaeology and Anthropology",
+        "Travel and Vacations",
+        "Ceramics and Pottery",
+        "Greek Language"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Greece",
+        "Mediterranean Sea",
+        "Mycenae (Greece)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/travel/03travel-greece-promo/merlin_213938556_1c90c0de-9da0-40f1-83c8-67ad7cd96bd8-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An archaeologist carefully unearths a pottery fragment.",
+          "copyright": "Matt Stirn"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/travel/03travel-greece-promo/03travel-greece5-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An archaeologist carefully unearths a pottery fragment.",
+          "copyright": "Matt Stirn"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/travel/03travel-greece-promo/03travel-greece5-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An archaeologist carefully unearths a pottery fragment.",
+          "copyright": "Matt Stirn"
+        }
+      ],
+      "short_url": "https://nyti.ms/3dVXZoJ"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Review: Revisiting \u2018Baldwin and Buckley at Cambridge\u2019",
+      "abstract": "Elevator Repair Service, the experimental theater company, brings to life the 1965 debate between James Baldwin and William F. Buckley Jr.",
+      "url": "https://www.nytimes.com/2022/10/02/theater/baldwin-buckley-at-cambridge-review.html",
+      "uri": "nyt://article/aaf80c2e-6092-565b-9b7d-0d640c027b60",
+      "byline": "By Alexis Soloski",
+      "item_type": "Article",
+      "updated_date": "2022-10-02T23:05:15-04:00",
+      "created_date": "2022-10-02T21:00:04-04:00",
+      "published_date": "2022-10-02T21:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Baldwin & Buckley at Cambridge (Play)"
+      ],
+      "org_facet": [
+        "Elevator Repair Service",
+        "Public Theater"
+      ],
+      "per_facet": [
+        "Baldwin, James (1924-87)",
+        "Buckley, William F Jr",
+        "Collins, John (1969- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02baldwin-review/02baldwin-review-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1421,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ben Jalosa Williams, right, as William F. Buckley Jr. and Greig Sargeant as James Baldwin sparring during their 1965 debate, now at the Public Theater in Manhattan.",
+          "copyright": "Richard Termine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02baldwin-review/02baldwin-review-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ben Jalosa Williams, right, as William F. Buckley Jr. and Greig Sargeant as James Baldwin sparring during their 1965 debate, now at the Public Theater in Manhattan.",
+          "copyright": "Richard Termine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02baldwin-review/02baldwin-review-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ben Jalosa Williams, right, as William F. Buckley Jr. and Greig Sargeant as James Baldwin sparring during their 1965 debate, now at the Public Theater in Manhattan.",
+          "copyright": "Richard Termine for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Cs7Egc"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "A New Refrain From Artists: We \u2018Almost Gave Up on Instagram\u2019",
+      "abstract": "Photographers and illustrators who once eagerly shared images of their work on Instagram are moving away from the site as it emphasizes video.",
+      "url": "https://www.nytimes.com/2022/10/02/technology/instagram-artists-video.html",
+      "uri": "nyt://article/337147c8-0105-505c-a9e3-98673f2953a2",
+      "byline": "By Kalley Huang",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T09:41:40-04:00",
+      "created_date": "2022-10-02T05:00:16-04:00",
+      "published_date": "2022-10-02T05:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Social Media",
+        "Mobile Applications",
+        "Video Recordings, Downloads and Streaming",
+        "Comic Books and Strips",
+        "Photography",
+        "Computers and the Internet",
+        "Art",
+        "Culture (Arts)"
+      ],
+      "org_facet": [
+        "Instagram Inc",
+        "Meta Platforms Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/business/02instagram-artists-01/02instagram-artists-01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1425,
+          "width": 1426,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emmen Ahmed holding one of her paintings. She developed a following of nearly 18,000 on Instagram.",
+          "copyright": "Mark Eric Trent for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/business/02instagram-artists-01/02instagram-artists-01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emmen Ahmed holding one of her paintings. She developed a following of nearly 18,000 on Instagram.",
+          "copyright": "Mark Eric Trent for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/business/02instagram-artists-01/02instagram-artists-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emmen Ahmed holding one of her paintings. She developed a following of nearly 18,000 on Instagram.",
+          "copyright": "Mark Eric Trent for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3M06fAH"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "For a Woman on Wall Street, Crude Jokes Weren\u2019t the Worst of It",
+      "abstract": "In \u201cBully Market,\u201d Jamie Fiore Higgins describes being seduced, and ultimately repelled, by nearly two high-flying decades at Goldman Sachs.",
+      "url": "https://www.nytimes.com/2022/10/02/books/bully-market-jamie-fiore-higgins.html",
+      "uri": "nyt://article/4232c1e7-a8f1-5c40-9b0a-095b6bb04927",
+      "byline": "By Alexandra Jacobs",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T11:57:26-04:00",
+      "created_date": "2022-10-02T05:00:15-04:00",
+      "published_date": "2022-10-02T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Banking and Financial Institutions",
+        "Workplace Environment",
+        "Women and Girls",
+        "Content Type: Personal Profile",
+        "Bully Market: My Story of Money and Misogyny at Goldman Sachs (Book)"
+      ],
+      "org_facet": [
+        "Goldman Sachs Group Inc"
+      ],
+      "per_facet": [
+        "Higgins, Jamie Fiore"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/books/04HIGGINS-COVER/04HIGGINS-COVER-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1339,
+          "width": 1031,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/books/04HIGGINS-COVER/04HIGGINS-COVER-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/books/04HIGGINS-COVER/04HIGGINS-COVER-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3CA0vdT"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018S.N.L.\u2019 Season Premiere Weighs in on Its Own Trump Sketch",
+      "abstract": "The show kicked off its 48th year with a cold open that was also a commentary on the expectations it faces after big cast changes.",
+      "url": "https://www.nytimes.com/2022/10/02/arts/television/snl-miles-teller-kendrick-lamar.html",
+      "uri": "nyt://article/f420f29c-9325-5c26-9ba1-c51d5ab13f76",
+      "byline": "By Dave Itzkoff",
+      "item_type": "Article",
+      "updated_date": "2022-10-02T11:54:52-04:00",
+      "created_date": "2022-10-02T02:24:49-04:00",
+      "published_date": "2022-10-02T02:24:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Saturday Night Live (TV Program)",
+        "Comedy and Humor"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Teller, Miles",
+        "Lamar, Kendrick"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02snl2/02snl2-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 1132,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jon Hamm joining Miles Teller, left, and Andrew Dismukes in the cold open.",
+          "copyright": "NBC Universal"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02snl2/02snl2-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jon Hamm joining Miles Teller, left, and Andrew Dismukes in the cold open.",
+          "copyright": "NBC Universal"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/arts/02snl2/02snl2-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jon Hamm joining Miles Teller, left, and Andrew Dismukes in the cold open.",
+          "copyright": "NBC Universal"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CmYkdo"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "7 Terrifying Horror Novels Perfect for Teens",
+      "abstract": "Kiersten White, the Bram Stoker Award-winning author of \u201cThe Dark Descent of Elizabeth Frankenstein,\u201d \u201cHide\u201d and more, recommends a few of her favorite horror novels.",
+      "url": "https://www.nytimes.com/2022/10/01/books/review/young-adult-horror-novel.html",
+      "uri": "nyt://article/54fc685f-055a-5c92-8132-6938b7290daf",
+      "byline": "By Kiersten White",
+      "item_type": "Article",
+      "updated_date": "2022-10-01T07:45:44-04:00",
+      "created_date": "2022-10-01T05:00:17-04:00",
+      "published_date": "2022-10-01T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "YA/NYT",
+      "des_facet": [
+        "Books and Literature",
+        "genre-books-young-adult",
+        "Carmilla (Book)",
+        "This Is Not a Test (Book)",
+        "The Getaway (Book)",
+        "Through the Woods (Book)",
+        "We Have Always Lived in the Castle (Book)",
+        "The Honeys (Book)",
+        "Dead Flip (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Le Fanu, Sheridan",
+        "Summers, Courtney (1986- )",
+        "Giles, Lamar",
+        "Carroll, Emily (1983- )",
+        "Jackson, Shirley",
+        "La Sala, Ryan",
+        "Farizan, Sara"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/22/books/review/00White-YA_Horror-SUB01/00White-YA_Horror-SUB01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1375,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Siobhan Gallagher"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/22/books/review/00White-YA_Horror-SUB01/00White-YA_Horror-SUB01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Siobhan Gallagher"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/22/books/review/00White-YA_Horror-SUB01/00White-YA_Horror-SUB01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Siobhan Gallagher"
+        }
+      ],
+      "short_url": "https://nyti.ms/3dSojQB"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Stream These Three Great Documentaries",
+      "abstract": "The bonds of an eccentric mother and daughter, of residents of New Orleans and of the family and friends of a kidnapping victim are explored in this month\u2019s documentary picks.",
+      "url": "https://www.nytimes.com/2022/09/30/movies/documentaries-streaming.html",
+      "uri": "nyt://article/28a6cc6f-9568-5ca7-a847-6976d72c1590",
+      "byline": "By Ben Kenigsberg",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T09:10:44-04:00",
+      "created_date": "2022-09-30T17:16:37-04:00",
+      "published_date": "2022-09-30T17:16:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Documentary Films and Programs",
+        "Grey Gardens (Movie)",
+        "What You Gonna Do When the World's on Fire? (Movie)",
+        "Miracle Fishing: Kidnapped Abroad (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/grey-gardens1/merlin_15639121_d605d501-01cb-4fbe-a899-b0ab52e7d02e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1345,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Edie Beale in the documentary \u201cGrey Gardens.\u201d",
+          "copyright": "Maysles Films, Inc."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/grey-gardens1/grey-gardens1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Edie Beale in the documentary \u201cGrey Gardens.\u201d",
+          "copyright": "Maysles Films, Inc."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/grey-gardens1/grey-gardens1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Edie Beale in the documentary \u201cGrey Gardens.\u201d",
+          "copyright": "Maysles Films, Inc."
+        }
+      ],
+      "short_url": "https://nyti.ms/3Rmn1e5"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "White House Restores Arts Commission Dissolved Under Trump",
+      "abstract": "The move rolls back the outcome of one of the stormier episodes in the former president\u2019s mutually antagonistic relationship with artists and cultural figures.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/arts-humanities-commission-biden.html",
+      "uri": "nyt://article/c2c69802-5c48-5034-a6df-86c55c0a4454",
+      "byline": "By Jennifer Schuessler",
+      "item_type": "Article",
+      "updated_date": "2022-10-01T01:28:17-04:00",
+      "created_date": "2022-09-30T16:40:05-04:00",
+      "published_date": "2022-09-30T16:40:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Executive Orders and Memorandums",
+        "United States Politics and Government",
+        "Humanities"
+      ],
+      "org_facet": [
+        "President's Committee on the Arts and Humanities",
+        "National Endowment for the Arts",
+        "National Endowment for the Humanities"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30arts-commission/30arts-commission-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest in 2017 against President Donald J. Trump\u2019s proposed cuts to federal arts funding. President Biden is now re-establishing the President\u2019s Committee on the Arts and the Humanities.",
+          "copyright": "Albin Lohr-Jones/Sipa, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30arts-commission/30arts-commission-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest in 2017 against President Donald J. Trump\u2019s proposed cuts to federal arts funding. President Biden is now re-establishing the President\u2019s Committee on the Arts and the Humanities.",
+          "copyright": "Albin Lohr-Jones/Sipa, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30arts-commission/30arts-commission-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A protest in 2017 against President Donald J. Trump\u2019s proposed cuts to federal arts funding. President Biden is now re-establishing the President\u2019s Committee on the Arts and the Humanities.",
+          "copyright": "Albin Lohr-Jones/Sipa, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3rqvwKw"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Museums Vote to Allow the Sale of Art to Care for Collections",
+      "abstract": "A policy of the Association of Art Museum Directors has been loosened to allow the limited use of funds from selling art to pay costs of preserving works.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/design/museum-leaders-vote-deaccessioning.html",
+      "uri": "nyt://article/986d8cc9-98c2-582b-94c9-a43c43bb9594",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T20:13:27-04:00",
+      "created_date": "2022-09-30T15:59:35-04:00",
+      "published_date": "2022-09-30T15:59:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums",
+        "Finances"
+      ],
+      "org_facet": [
+        "Assn of Art Museum Directors",
+        "Baltimore Museum of Art",
+        "Brooklyn Museum",
+        "Metropolitan Museum of Art"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30deaccession-1-2b85/30deaccession-1-2b85-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Brooklyn Museum put works up for sale during the pandemic, while the policy was loosened, to help pay for the care of its collection.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30deaccession-1-2b85/30deaccession-1-2b85-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Brooklyn Museum put works up for sale during the pandemic, while the policy was loosened, to help pay for the care of its collection.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30deaccession-1-2b85/30deaccession-1-2b85-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Brooklyn Museum put works up for sale during the pandemic, while the policy was loosened, to help pay for the care of its collection.",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SOy6pI"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Review: It\u2019s That Old Hard Shoe, and an Irish Dance Reunion",
+      "abstract": "Se\u00e1n Curran Company and Darrah Carr Dance present \u201cC\u00e9il\u00ed,\u201d a pleasant show that doesn\u2019t break much new ground.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/dance/review-sean-curran-darrah-carr.html",
+      "uri": "nyt://article/edbddd64-72cd-5145-8971-207e75e719d6",
+      "byline": "By Brian Seibert",
+      "item_type": "Article",
+      "updated_date": "2022-10-02T23:01:03-04:00",
+      "created_date": "2022-09-30T15:16:39-04:00",
+      "published_date": "2022-09-30T15:16:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing"
+      ],
+      "org_facet": [
+        "Curran, Sean, Company",
+        "Irish Arts Center",
+        "Darrah Carr Dance (Dance Co)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30curran-carr-1-3988/30curran-carr-1-3988-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jack Blackmon, left, and Benjamin Freedman in a duet choreographed by Se\u00e1n Curran.",
+          "copyright": "Nir Arieli"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30curran-carr-1-3988/30curran-carr-1-3988-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jack Blackmon, left, and Benjamin Freedman in a duet choreographed by Se\u00e1n Curran.",
+          "copyright": "Nir Arieli"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30curran-carr-1-3988/30curran-carr-1-3988-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jack Blackmon, left, and Benjamin Freedman in a duet choreographed by Se\u00e1n Curran.",
+          "copyright": "Nir Arieli"
+        }
+      ],
+      "short_url": "https://nyti.ms/3y53k3Y"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Watch Trevor Noah\u2019s \u2018Daily Show\u2019 Highlights",
+      "abstract": "The host announced that he will step down from \u201cThe Daily Show.\u201d As his best moments reveal, Noah\u2019s comic perspective set him apart from the rest of late night.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/television/trevor-noah-the-daily-show.html",
+      "uri": "nyt://article/1c6867f3-dc9d-5329-907b-44e8975179c9",
+      "byline": "By Trish Bendix",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T15:50:26-04:00",
+      "created_date": "2022-09-30T15:01:43-04:00",
+      "published_date": "2022-09-30T15:01:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "The Daily Show with Trevor Noah (TV Program)",
+        "Comedy and Humor"
+      ],
+      "org_facet": [
+        "Comedy Central"
+      ],
+      "per_facet": [
+        "Noah, Trevor (1984- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30noah-highlights/30noah-highlights-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 768,
+          "width": 1152,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Noah announced on Thursday that he planned to leave \u201cThe Daily Show.\u201d",
+          "copyright": "Comedy Central"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30noah-highlights/30noah-highlights-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Noah announced on Thursday that he planned to leave \u201cThe Daily Show.\u201d",
+          "copyright": "Comedy Central"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30noah-highlights/30noah-highlights-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Noah announced on Thursday that he planned to leave \u201cThe Daily Show.\u201d",
+          "copyright": "Comedy Central"
+        }
+      ],
+      "short_url": "https://nyti.ms/3UUChSo"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Star Maestro With Russian Ties to Depart German Orchestra",
+      "abstract": "Teodor Currentzis, who has faced scrutiny for his association with a Russian bank, will step down as chief conductor of the SWR Symphony Orchestra in 2025.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/music/teodor-currentzis-swr-orchestra.html",
+      "uri": "nyt://article/53fe97d1-6814-5fed-9986-65898efe1fdf",
+      "byline": "By Javier C. Hern\u00e1ndez",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T16:28:26-04:00",
+      "created_date": "2022-09-30T15:01:01-04:00",
+      "published_date": "2022-09-30T15:01:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Appointments and Executive Changes",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [
+        "SWR Symphony Orchestra",
+        "MusicAeterna",
+        "VTB Bank"
+      ],
+      "per_facet": [
+        "Currentzis, Teodor I",
+        "Roth, Francois-Xavier"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30currentzis-item-1-fcc8/30currentzis-item-1-fcc8-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Teodor Currentzis in 2019. He has been criticized for his ties to a Russian state-owned bank.",
+          "copyright": "James Hill for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30currentzis-item-1-fcc8/30currentzis-item-1-fcc8-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Teodor Currentzis in 2019. He has been criticized for his ties to a Russian state-owned bank.",
+          "copyright": "James Hill for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/multimedia/30currentzis-item-1-fcc8/30currentzis-item-1-fcc8-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Teodor Currentzis in 2019. He has been criticized for his ties to a Russian state-owned bank.",
+          "copyright": "James Hill for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SnkGB0"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "The Best of Late Night This Week \ud83c\udf19 ",
+      "abstract": "This week in late-night, outer space, both real and fictional, made the monologues, and Trevor Noah had a major announcement.",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/arts/television/best-of-late-night.html",
+      "uri": "nyt://interactive/03b76f1a-e34e-5719-9060-eaa3c940afc6",
+      "byline": "By Trish Bendix",
+      "item_type": "Interactive",
+      "updated_date": "2022-09-30T16:37:36-04:00",
+      "created_date": "2022-09-30T14:55:39-04:00",
+      "published_date": "2022-09-30T14:55:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Noah, Trevor (1984- )",
+        "Fallon, Jimmy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30burst-boln/30burst-boln-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rich Fury/Getty Images For The Recording Academy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30burst-boln/30burst-boln-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rich Fury/Getty Images For The Recording Academy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30burst-boln/30burst-boln-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rich Fury/Getty Images For The Recording Academy"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CwWvLb"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: The Philadelphia Orchestra Returns, With Force",
+      "abstract": "Carnegie Hall\u2019s season-opening gala featured the ensemble and its music director, Yannick N\u00e9zet-S\u00e9guin, in a program of heavy-handed light fare.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/music/philadelphia-orchestra-carnegie-hall-review.html",
+      "uri": "nyt://article/58705d5a-55c7-5c6a-9cbb-bdd252f40cf4",
+      "byline": "By Oussama Zahr",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T18:18:35-04:00",
+      "created_date": "2022-09-30T14:33:48-04:00",
+      "published_date": "2022-09-30T14:33:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "Carnegie Hall",
+        "Philadelphia Orchestra"
+      ],
+      "per_facet": [
+        "Frank, Gabriela Lena",
+        "Nezet-Seguin, Yannick",
+        "Trifonov, Daniil"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/01/multimedia/30carnegie-opening/30carnegie-opening-1-ac9b-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yannick N\u00e9zet-S\u00e9guin, left, leading the Philadelphia Orchestra and the pianist Daniil Trifonov in Liszt\u2019s First Piano Concerto during Carnegie Hall\u2019s season-opening gala on Thursday.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/01/multimedia/30carnegie-opening/30carnegie-opening-1-ac9b-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yannick N\u00e9zet-S\u00e9guin, left, leading the Philadelphia Orchestra and the pianist Daniil Trifonov in Liszt\u2019s First Piano Concerto during Carnegie Hall\u2019s season-opening gala on Thursday.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/01/multimedia/30carnegie-opening/30carnegie-opening-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yannick N\u00e9zet-S\u00e9guin, left, leading the Philadelphia Orchestra and the pianist Daniil Trifonov in Liszt\u2019s First Piano Concerto during Carnegie Hall\u2019s season-opening gala on Thursday.",
+          "copyright": "Chris Lee"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CnOmIQ"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Photography Our Photo Editors Are Following",
+      "abstract": "Here are four Instagram accounts to make you stop and look.",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/arts/design/follow-instagram-photographers.html",
+      "uri": "nyt://interactive/b2a966b4-6d2e-554b-9eed-7d142611a825",
+      "byline": "By Jolie Ruben and Amanda Webster",
+      "item_type": "Interactive",
+      "updated_date": "2022-09-30T16:39:59-04:00",
+      "created_date": "2022-09-30T14:30:51-04:00",
+      "published_date": "2022-09-30T14:30:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/23/arts/focusing-burst-lead/focusing-burst-lead-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Clockwise from top left: Thal\u00eda Gochez; Brian Karlsson; Olivia Lifungula; Guy Bolongaro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/23/arts/focusing-burst-lead/focusing-burst-lead-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Clockwise from top left: Thal\u00eda Gochez; Brian Karlsson; Olivia Lifungula; Guy Bolongaro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/23/arts/focusing-burst-lead/focusing-burst-lead-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Clockwise from top left: Thal\u00eda Gochez; Brian Karlsson; Olivia Lifungula; Guy Bolongaro"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fwvuym"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A Trio of Dangerous Women in a Met Opera Week to Remember",
+      "abstract": "The company started its season performing \u201cMedea,\u201d \u201cIdomeneo\u201d and \u201cLady Macbeth of Mtsensk,\u201d three of opera\u2019s most distinctive scores, with care and passion.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/music/met-opera-idomeneo-lady-macbeth-of-mtsensk.html",
+      "uri": "nyt://article/b383b88b-11df-5e7f-b87a-4454a43ab439",
+      "byline": "By Zachary Woolfe",
+      "item_type": "Article",
+      "updated_date": "2022-10-03T09:49:25-04:00",
+      "created_date": "2022-09-30T13:33:44-04:00",
+      "published_date": "2022-09-30T13:33:44-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Opera",
+        "Idomeneo (Opera)",
+        "Lady Macbeth of Mtsensk (Opera)",
+        "Medea (Opera)"
+      ],
+      "org_facet": [
+        "Metropolitan Opera"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30met-notebook-macbeth/merlin_214068558_adb39ac6-dc1b-4580-80d0-984ff2ca7fff-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Svetlana Sozdateleva and Brandon Jovanovich in \u201cLady Macbeth of Mtsensk\u201d at the Metropolitan Opera.",
+          "copyright": "Evan Zimmerman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30met-notebook-macbeth/30met-notebook-macbeth-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Svetlana Sozdateleva and Brandon Jovanovich in \u201cLady Macbeth of Mtsensk\u201d at the Metropolitan Opera.",
+          "copyright": "Evan Zimmerman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/30met-notebook-macbeth/30met-notebook-macbeth-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Svetlana Sozdateleva and Brandon Jovanovich in \u201cLady Macbeth of Mtsensk\u201d at the Metropolitan Opera.",
+          "copyright": "Evan Zimmerman"
+        }
+      ],
+      "short_url": "https://nyti.ms/3dSVUtu"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Review: At Fall for Dance, Resilience Takes Center Stage",
+      "abstract": "The City Center festival continued with Kyiv City Ballet, a Christopher Wheeldon duet and a daring work for Dayton Contemporary Dance Company.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/dance/review-fall-for-dance-kyiv-city-ballet.html",
+      "uri": "nyt://article/b888b2b4-03f1-50bd-9edc-1e90ef8b106b",
+      "byline": "By Gia Kourlas",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T18:16:03-04:00",
+      "created_date": "2022-09-30T13:12:11-04:00",
+      "published_date": "2022-09-30T13:12:11-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Dancing",
+        "The Two of Us (Ballet)"
+      ],
+      "org_facet": [
+        "New York City Center Theater",
+        "Kyiv City Ballet",
+        "Dayton Contemporary Dance Co"
+      ],
+      "per_facet": [
+        "Fairchild, Robert",
+        "Mearns, Sara",
+        "Wheeldon, Christopher",
+        "Zbikowski, Abby"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/01/multimedia/30fall-for-dance-1-9664/30fall-for-dance-1-9664-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pavlo Virsky\u2019s buoyant \u201cMen of Kyiv,\u201d featuring dancers from Kyiv City Ballet, which was in Paris when Russia invaded Ukraine.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/01/multimedia/30fall-for-dance-1-9664/30fall-for-dance-1-9664-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pavlo Virsky\u2019s buoyant \u201cMen of Kyiv,\u201d featuring dancers from Kyiv City Ballet, which was in Paris when Russia invaded Ukraine.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/01/multimedia/30fall-for-dance-1-9664/30fall-for-dance-1-9664-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pavlo Virsky\u2019s buoyant \u201cMen of Kyiv,\u201d featuring dancers from Kyiv City Ballet, which was in Paris when Russia invaded Ukraine.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Cm54rS"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Joe Bussard, Obsessive Collector of Rare Records, Dies at 86",
+      "abstract": "His life revolved around his massive hoard of fragile 78 r.p.m. disks of jazz, blues, country and gospel music recorded between the 1920s and \u201950s.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/music/joe-bussard-dead.html",
+      "uri": "nyt://article/81484d9a-bd55-5e9a-9309-7390375873ab",
+      "byline": "By Richard Sandomir",
+      "item_type": "Article",
+      "updated_date": "2022-10-02T10:53:17-04:00",
+      "created_date": "2022-09-30T12:25:06-04:00",
+      "published_date": "2022-09-30T12:25:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Music",
+        "Audio Recordings, Downloads and Streaming",
+        "Collectors and Collections"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bussard, Joe (1936-2022)"
+      ],
+      "geo_facet": [
+        "Frederick (Md)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/29/obituaries/29Bussard1-sub/29Bussard1-sub-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1280,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Bussard in 2009 with his collection of rare 78 r.p.m. records in the basement of his home in Maryland. He would go door to door hunting them down.",
+          "copyright": "Eilon Paz for Dust & Grooves "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/29/obituaries/29Bussard1-sub/29Bussard1-sub-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Bussard in 2009 with his collection of rare 78 r.p.m. records in the basement of his home in Maryland. He would go door to door hunting them down.",
+          "copyright": "Eilon Paz for Dust & Grooves "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/29/obituaries/29Bussard1-sub/29Bussard1-sub-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Bussard in 2009 with his collection of rare 78 r.p.m. records in the basement of his home in Maryland. He would go door to door hunting them down.",
+          "copyright": "Eilon Paz for Dust & Grooves "
+        }
+      ],
+      "short_url": "https://nyti.ms/3E30YWY"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Watch Billy Eichner and Luke Macfarlane on an Awkward Date in \u2018Bros\u2019",
+      "abstract": "The director Nicholas Stoller narrates a sequence from the romantic comedy.",
+      "url": "https://www.nytimes.com/2022/09/30/movies/bros-clip.html",
+      "uri": "nyt://article/ed9679c1-ab2b-5998-9258-246ed448cc6a",
+      "byline": "By Mekado Murphy",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T12:24:27-04:00",
+      "created_date": "2022-09-30T12:24:27-04:00",
+      "published_date": "2022-09-30T12:24:27-04:00",
+      "material_type_facet": "",
+      "kicker": "Anatomy of a Scene",
+      "des_facet": [
+        "Movies",
+        "Bros (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Eichner, Billy",
+        "Macfarlane, Luke (1980- )",
+        "Stoller, Nicholas"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/bros-anatomy1/bros-anatomy1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luke Macfarlane and Billy Eichner in \u201cBros,\u201d which was embraced by critics but arrived in fourth place at the box office. ",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/bros-anatomy1/bros-anatomy1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luke Macfarlane and Billy Eichner in \u201cBros,\u201d which was embraced by critics but arrived in fourth place at the box office. ",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/30/arts/bros-anatomy1/bros-anatomy1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luke Macfarlane and Billy Eichner in \u201cBros,\u201d which was embraced by critics but arrived in fourth place at the box office. ",
+          "copyright": "Universal Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3flUZSI"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: A Portrait Reveals a Composer With a Dramatic Edge",
+      "abstract": "The Miller Theater\u2019s Composer Portraits series returns with a program of Liza Lim\u2019s music, featuring the JACK Quartet.",
+      "url": "https://www.nytimes.com/2022/09/30/arts/music/liza-lim-composer-portrait-review.html",
+      "uri": "nyt://article/dd8f5b7e-1256-582e-8dbf-958d75bf9605",
+      "byline": "Seth Colter Walls",
+      "item_type": "Article",
+      "updated_date": "2022-10-02T23:06:14-04:00",
+      "created_date": "2022-09-30T12:24:02-04:00",
+      "published_date": "2022-09-30T12:24:02-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "Miller Theater at Columbia University",
+        "JACK Quartet"
+      ],
+      "per_facet": [
+        "Lim, Liza (1966- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/multimedia/30composer-portrait/30composer-portrait-1-099e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cellist Jay Campbell performing Liza Lim\u2019s \u201can ocean beyond earth,\u201d a work in which a cotton thread attaches his instrument to the strings of a nearby violin.",
+          "copyright": "Rob Davidson for Miller Theatre"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/multimedia/30composer-portrait/30composer-portrait-1-099e-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cellist Jay Campbell performing Liza Lim\u2019s \u201can ocean beyond earth,\u201d a work in which a cotton thread attaches his instrument to the strings of a nearby violin.",
+          "copyright": "Rob Davidson for Miller Theatre"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/multimedia/30composer-portrait/30composer-portrait-1-099e-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cellist Jay Campbell performing Liza Lim\u2019s \u201can ocean beyond earth,\u201d a work in which a cotton thread attaches his instrument to the strings of a nearby violin.",
+          "copyright": "Rob Davidson for Miller Theatre"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CmrN77"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Five Science Fiction Movies to Stream Now",
+      "abstract": "Amnesiacs and French-history time travelers are among the protagonists in this month\u2019s sci-fi picks.",
+      "url": "https://www.nytimes.com/2022/09/30/movies/science-fiction-movies-streaming.html",
+      "uri": "nyt://article/d9e4f8e7-607b-5644-bb36-0222516bd505",
+      "byline": "By Elisabeth Vincentelli",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T12:00:09-04:00",
+      "created_date": "2022-09-30T12:00:09-04:00",
+      "published_date": "2022-09-30T12:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Maika: The Girl From Another Galaxy (Movie)",
+        "Tiny Cinema (Movie)",
+        "Blank (Movie)",
+        "Control (Movie)",
+        "Flashback (2022) (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/29/arts/tinycinema1/tinycinema1-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 881,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Austin Lewis in \u201cTiny Cinema.\u201d",
+          "copyright": "Epic Pictures Releasing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/29/arts/tinycinema1/tinycinema1-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Austin Lewis in \u201cTiny Cinema.\u201d",
+          "copyright": "Epic Pictures Releasing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/29/arts/tinycinema1/tinycinema1-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Austin Lewis in \u201cTiny Cinema.\u201d",
+          "copyright": "Epic Pictures Releasing"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RqrwEs"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Scary Novels From Nick Lake, Kenneth Oppel and Roseanne A. Brown",
+      "abstract": "Our guest critic, a dead ringer for the elf who went to Halloween, weighs in on a trio of ghoulish treats.",
+      "url": "https://www.nytimes.com/2022/09/30/books/review/scary-childrens-novels-halloween.html",
+      "uri": "nyt://article/0bc5c7be-844d-5d85-a0a0-2f8d1a990a27",
+      "byline": "By Christian McKay Heidicker",
+      "item_type": "Article",
+      "updated_date": "2022-09-30T12:20:48-04:00",
+      "created_date": "2022-09-30T11:56:35-04:00",
+      "published_date": "2022-09-30T11:56:35-04:00",
+      "material_type_facet": "",
+      "kicker": "Children\u2019s Books",
+      "des_facet": [
+        "Books and Literature",
+        "Children and Childhood",
+        "Halloween",
+        "Ghosts",
+        "Vampires",
+        "Lily and the Night Creatures (Book)",
+        "Ghostlight (Book)",
+        "Serwa Boateng's Guide to Vampire Hunting (Book)",
+        "genre-books-childrens"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gravett, Emily",
+        "Oppel, Kenneth (1967- )",
+        "Lake, Nick",
+        "Brown, Roseanne A"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/books/02-BKS-KIDS-COMBO/02-BKS-KIDS-COMBO-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1229,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/books/02-BKS-KIDS-COMBO/02-BKS-KIDS-COMBO-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/books/02-BKS-KIDS-COMBO/02-BKS-KIDS-COMBO-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3ri6RIb"
+    }
+  ]
+}
